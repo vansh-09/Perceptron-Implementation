@@ -20,8 +20,6 @@ This is a barebones implementation of a single-layer Perceptron trained to learn
 
 ### 🛠️ Run It Yourself
 
-```bash
-python perceptron_and.py
-```
+You can run this directly in **Google Colab**
 
 This will print out trained weights, bias, and predictions for all inputs.
