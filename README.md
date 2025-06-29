@@ -62,6 +62,3 @@ Prediction after training:
 - How bias allows the perceptron to shift decision boundaries
 - What the limitation of a single-layer perceptron is (cannot solve XOR)
 
----
-
-Want to learn more? Try extending this to OR / NAND gates or multi-layer perceptrons.
